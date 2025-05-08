@@ -131,7 +131,7 @@ body{
 .container.toggle .container-welcome{
     transform: translateX(0);
     border-radius: 0 50% 50% 0;
-    background-color: #f39a16;
+    background-color: #b4d1e9;
 }
 .container-welcome .welcome{
     position: absolute;
